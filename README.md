@@ -1,4 +1,4 @@
-# CAP5771-Apriori-Algorithm-Project
+# CAP5771 Apriori Algorithm Project
 Academic Project for Principles of Datamining Course during the Fall 2023 semester
 
 The goal for this project was to implement the Apriori algorithm to a dataset consisting of a list of transactions to generate the frequent item
